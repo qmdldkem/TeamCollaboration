@@ -1,0 +1,10 @@
+create table board(
+board_no int primary key auto_increment,
+board_title varchar(200),
+board_content varchar(3000),
+user_name varchar(50),
+regDate timestamp default now()
+);
+
+insert into board(board_title,board_content,user_name) values
+("게시판제목이다 임마", "게시판 내용이다 임마", "사용자다 임마");

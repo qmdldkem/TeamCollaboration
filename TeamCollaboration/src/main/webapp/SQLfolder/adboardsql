@@ -1,0 +1,8 @@
+create table adminBoard(
+ad_board int primary key auto_increment,
+ad_name varchar(20),
+ad_id varchar(20),
+ad_pw varchar(20),
+ad_boardtitle varchar(100),
+ad_content varchar(1000)
+);

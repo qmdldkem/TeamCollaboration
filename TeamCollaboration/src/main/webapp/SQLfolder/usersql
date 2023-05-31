@@ -1,0 +1,8 @@
+create table user(
+user_num int primary key auto_increment,
+user_name varchar(20),
+user_pw varchar(20),
+user_email varchar(30),
+user_phone varchar(30),
+user_gendar varchar(10)
+);

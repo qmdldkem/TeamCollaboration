@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/*
+.head_style1{
+	margin:0 auto;
+	height: 70px;
+	font-style: bold;
+	font-size: 40px;
+	text-align: center;
+	background-color:black;
+	color:white;
+}
+
+.menu01 > ul{
+	list-style-type:none;
+}
+
+.list01{
+	display:inline;
+}
+
+.login_menu{
+	float:right;
+}
+*/
+
+
+.challenge1{
+	margin: 0 auto;
+	width:1200px;
+	height:640px;
+}
+/*
+#for_display{
+	position:fixed;
+	display: flex;
+}
+*/
+

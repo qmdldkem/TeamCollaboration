@@ -1,0 +1,5 @@
+create table prize(
+prize_no int primary key auto_increment,
+prize_count int,
+prize_address varchar(20)
+);
