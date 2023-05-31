@@ -1,0 +1,54 @@
+@charset "UTF-8";
+
+
+#wrap
+{
+	width : 600px;
+	margin : 0 auto;
+	border : 10px solid lightgray;
+	background-color: rgb(255, 249, 243);
+}
+
+#email
+{
+	
+	margin : 0 atuo;
+	text-align : center;
+	
+}
+
+
+div > input
+{
+	display : block;
+	width : 300px;
+	height : 40px;
+	line-height : 50px;
+	margin : 0 auto;
+	border : 1px solid lightgray;
+	border-radius : 5px;
+}
+
+div > form > div > label
+{
+
+	position : relative;
+	left : 148px;
+	font-size : 14px;
+	color : gray;
+}
+
+	
+#join
+{
+	width : 200px;
+	height : 40px;
+	text-align : center;
+	line-height : 40px; 
+	margin : 20px auto;
+	font-size : 18px;
+	font-weight : bold;
+	background-color : lightgray;
+	
+	
+}
